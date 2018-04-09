@@ -1,0 +1,31 @@
+{
+  "name": "storyblok-twig",
+  "version": "0.0.1",
+  "description": "Is a example of using storyblok with node and twig instead hbs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didelco/storyblock-twig.git"
+  },
+  "keywords": [
+    "storyblok",
+    "twig",
+    "headless",
+    "cms"
+  ],
+  "author": "Chema Diez del Corral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didelco/storyblock-twig/issues"
+  },
+  "homepage": "https://github.com/didelco/storyblock-twig#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3",
+    "storyblok-node-client": "^1.0.2",
+    "twig": "^1.10.5"
+  }
+}
